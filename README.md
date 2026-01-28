@@ -74,9 +74,12 @@ This repository is licensed under the **MIT License**, allowing open use with pr
 
 ## 📬 Contact  
 **Supervisor:** Abu Omayed  
-📧 Email: **abuomayed@gmail.com**  
-🔗 GitHub: https://github.com/AbuOmayed  
-🔗 LinkedIn: https://www.linkedin.com/in/abu-omayed
+- 📧 Email: **abuomayed@gmail.com**  
+- 🔗 GitHub: https://github.com/AbuOmayed  
+- 🔗 LinkedIn: https://www.linkedin.com/in/abu-omayed
+- 🔗 ResearchBuddy: https://researchbuddy.tech/research-partner/omayed/
+- 🔗 Lab Membership: https://researchbuddy.tech/membership-checkout/?pmpro_level=56
+
 
 ---
 
