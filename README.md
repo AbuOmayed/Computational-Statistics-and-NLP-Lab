@@ -40,7 +40,8 @@ This repository contains all class materials, notes, roadmaps, practical noteboo
 - RNN, LSTM, GRU  
 
 ### 🔹 Natural Language Processing
-- Tokenization, TF-IDF, preprocessing  
+- Tokenization, StopWord, Stemming, Lemmatization
+- Bag of Words, Count Vectorizer, TF-IDF  
 - Word2Vec, GloVe, FastText  
 - Attention mechanism  
 - Transformer architecture  
