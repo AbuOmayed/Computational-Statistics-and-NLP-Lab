@@ -1,0 +1,54 @@
+# Data Structures & Algorithms (DSA) with Python
+
+This repository is dedicated to **studying and practicing Data Structures and Algorithms (DSA) using Python**.  
+It covers fundamental concepts, sorting & searching techniques, and advanced problem-solving approaches commonly used in coding interviews and competitive programming.
+
+---
+
+📌 Contents
+
+🔹 Beginning
+- Array
+- String
+- Stack
+- Queue
+- Two Pointers
+- Three Pointers
+- Sliding Window
+- Dictionary (Hash Map)
+
+---
+
+🔹 Sorting Algorithms
+- Bubble Sort
+- Merge Sort (Recursion)
+- Quick Sort
+
+---
+
+🔹 Searching Algorithms
+- Linear Search
+- Binary Search
+
+---
+
+🔹 Advanced Topics
+- Bit Manipulation
+- Linked List
+- Tree
+- Graph
+- Dynamic Programming
+- Greedy Algorithms
+
+---
+
+🧠 Goals
+- Build strong DSA fundamentals  
+- Improve problem-solving skills  
+- Prepare for coding interviews  
+- Practice Python-based algorithm implementations  
+
+---
+
+🛠️ Language Used
+- **Python**
