@@ -3,7 +3,7 @@ It covers fundamental concepts, sorting & searching techniques, and advanced pro
 
 ---
 
-## 🔹 Basics & Core Data Structures
+🔹 Basics & Core Data Structures
 - Array
 - String
 - Hash Map (Hash Table)
@@ -13,7 +13,7 @@ It covers fundamental concepts, sorting & searching techniques, and advanced pro
 
 ---
 
-## 🔹 Algorithmic Techniques
+🔹 Algorithmic Techniques
 These are problem-solving patterns commonly used in coding interviews.
 
 - Two Pointers
@@ -24,7 +24,7 @@ These are problem-solving patterns commonly used in coding interviews.
 
 ---
 
-## 🔹 Sorting Algorithms
+🔹 Sorting Algorithms
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -33,13 +33,13 @@ These are problem-solving patterns commonly used in coding interviews.
 
 ---
 
-## 🔹 Searching Algorithms
+🔹 Searching Algorithms
 - Linear Search
 - Binary Search
 
 ---
 
-## 🔹 Advanced Data Structures
+🔹 Advanced Data Structures
 - Tree  
   - Binary Tree  
   - Binary Search Tree (BST)
@@ -48,14 +48,14 @@ These are problem-solving patterns commonly used in coding interviews.
 
 ---
 
-## 🔹 Advanced Algorithms
+🔹 Advanced Algorithms
 - Bit Manipulation
 - Greedy Algorithms
 - Dynamic Programming
 
 ---
 
-## 📚 Recommended Practice Platforms
+📚 Recommended Practice Platforms
 - LeetCode
 - Codeforces
 - HackerRank
