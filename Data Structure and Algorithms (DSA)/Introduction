@@ -3,40 +3,63 @@ It covers fundamental concepts, sorting & searching techniques, and advanced pro
 
 ---
 
-📌 Contents
-
-🔹 Beginning
+## 🔹 Basics & Core Data Structures
 - Array
 - String
+- Hash Map (Hash Table)
 - Stack
 - Queue
-- Two Pointers
-- Three Pointers
-- Sliding Window
-- Dictionary (Hash Map)
+- Linked List
 
 ---
 
-🔹 Sorting Algorithms
+## 🔹 Algorithmic Techniques
+These are problem-solving patterns commonly used in coding interviews.
+
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Recursion
+- Backtracking
+
+---
+
+## 🔹 Sorting Algorithms
 - Bubble Sort
-- Merge Sort (Recursion)
+- Selection Sort
+- Insertion Sort
+- Merge Sort
 - Quick Sort
 
 ---
 
-🔹 Searching Algorithms
+## 🔹 Searching Algorithms
 - Linear Search
 - Binary Search
 
 ---
 
-🔹 Advanced Topics
-- Bit Manipulation
-- Linked List
-- Tree
+## 🔹 Advanced Data Structures
+- Tree  
+  - Binary Tree  
+  - Binary Search Tree (BST)
+- Heap (Priority Queue)
 - Graph
-- Dynamic Programming
+
+---
+
+## 🔹 Advanced Algorithms
+- Bit Manipulation
 - Greedy Algorithms
+- Dynamic Programming
+
+---
+
+## 📚 Recommended Practice Platforms
+- LeetCode
+- Codeforces
+- HackerRank
+- GeeksforGeeks
 
 ---
 
